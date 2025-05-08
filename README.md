@@ -1,1 +1,1 @@
-I make robots using words.
+making robots w/ words
